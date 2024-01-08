@@ -23,7 +23,7 @@ corresponding IP address or an error message if the URL is invalid.
 1. Clone the repository:
 
 ````
-git clone https://github.com/paulofranklins2/ip-finder-app.git
+git clone https://github.com/paulofranklins2/ip-finder.git
 ````
 
 2. Open the project in your preferred Java IDE.
